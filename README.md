@@ -1,4 +1,4 @@
-# **AEDS-II - Dicas**
+# **PDS-II - Dicas**
 
 ## **1ª Dica - Use WSL (Windows Subsystem for Linux)**
 
